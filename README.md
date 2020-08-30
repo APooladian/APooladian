@@ -18,4 +18,4 @@ In this repo, there is code available for a few papers/pre-prints that I've work
 My interests lie at the intersection of optimization theory (convex, non-smooth, etc), computational and statistical optimal transport, high dimensional statistics, and problems in deep learning.
 
 #### Contact
-Please use either aram-alexandre[dot]pooladian[at]school, where school = {nyu.edu, mail.mcgill.ca }
+If it's urgent, please use aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca, otherwise aram-alexandre[dot]pooladian[at]nyu[dot]edu
