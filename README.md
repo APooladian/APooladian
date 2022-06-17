@@ -1,9 +1,6 @@
 ### About me
 
-I'm a PhD candidate at the Center for Data Science at New York University, advised by Jonathan Niles-Weed. Before joining the CDS, I completed both my Bachelor's and Master's degrees in (applied) mathematics at McGill University, the latter under the supervision of Tim Hoheisel and Adam Oberman. 
-
-#### Research interests
-Optimal transport, high-dimensional statistics, and optimization theory 
+I'm a PhD candidate at the Center for Data Science at New York University, advised by Jonathan Niles-Weed. Before joining the CDS, I completed both my Bachelor's and Master's degrees in (applied) mathematics at McGill University, the latter under the supervision of Tim Hoheisel and Adam Oberman. My research interests lie at the intersection of optimal transport, high-dimensional statistics, and optimization theory. This Github page contains relevant code for (almost all of) my projects from my MSc onwards. 
 
 ### Code for my PhD projects
 - the repo for "Debiaser Beware: Pitfalls of Centering Regularized Transport Maps" (ICML 2022, with Cuturi and Niles-Weed)
