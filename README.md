@@ -1,6 +1,6 @@
 ### About me
 
-I'm a PhD candidate at the Center for Data Science at New York University, advised by Jonathan Niles-Weed. My research interests lie at the intersection of optimal transport, high-dimensional statistics, and optimization theory. This Github page contains the code for some of my research projects during my PhD (among other projects):
+I'm a fifth year PhD student at the Center for Data Science at New York University, advised by Jonathan Niles-Weed. My research interests lie at the intersection of optimal transport, high-dimensional statistics, and optimization theory. This Github page contains the code for some of my research projects during my PhD (among other projects):
 
 ### Code is available for the following projects:
 - “Algorithms for mean-field variational inference via polyhedral optimization in the Wasserstein space” with Roger Jiang and Sinho Chewi,
