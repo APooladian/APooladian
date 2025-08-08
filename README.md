@@ -1,6 +1,10 @@
 ### About me
 
-I'm a fifth year PhD student at the Center for Data Science at New York University, advised by Jonathan Niles-Weed. My research interests lie at the intersection of optimal transport, high-dimensional statistics, and optimization theory. This Github page contains the code for some of my research projects during my PhD (among other projects):
+I recently started as a Foundations of Data Science (FDS) Postdoctoral Fellow at Yale University. Prior to this, I had the (immense!) pleasure of completing my PhD at New York University under the supervision of Jonathan Niles-Weed.
+
+I am somewhere between an applied mathematician, statistician, and computer scientist—the term might be data scientist. During my PhD, I worked on tractable, principled methodologies for large-scale probabilistic inference based on the theory of optimal transport.
+
+This Github page contains the code for some of my research projects:
 
 ### Code is available for the following projects:
 - "Plug-in estimation of Schrödinger bridges, with Jonathan Niles-Weed (2024)
@@ -8,6 +12,3 @@ I'm a fifth year PhD student at the Center for Data Science at New York Universi
 - "Debiaser Beware: Pitfalls of Centering Regularized Transport Maps" with Marco Cuturi and Jonathan Niles-Weed (ICML 2022),
 - "Entropic estimation of optimal transport maps" with Jonathan Niles-Weed (2021) is also found in the above repo.
 - An implementation of the 1-Nearest-Neighbor estimator for optimal transport maps, as seen in "Plugin Estimators for Smooth Transport Maps" (Manole et al., 2021)
-
-#### Contact
-aram-alexandre[dot]pooladian[at]nyu[dot]edu
