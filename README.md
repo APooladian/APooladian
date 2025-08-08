@@ -7,8 +7,8 @@ I am somewhere between an applied mathematician, statistician, and computer scie
 This Github page contains the code for some of my research projects:
 
 ### Code is available for the following projects:
-- "Plug-in estimation of Schrödinger bridges, with Jonathan Niles-Weed (2024)
-- “Algorithms for mean-field variational inference via polyhedral optimization in the Wasserstein space” with Roger Jiang and Sinho Chewi (COLT 2024),
+- "Plug-in estimation of Schrödinger bridges, with Jonathan Niles-Weed (SIMODS 2025)
+- “Algorithms for mean-field variational inference via polyhedral optimization in the Wasserstein space” with Roger Jiang and Sinho Chewi (FoCM 2024),
 - "Debiaser Beware: Pitfalls of Centering Regularized Transport Maps" with Marco Cuturi and Jonathan Niles-Weed (ICML 2022),
 - "Entropic estimation of optimal transport maps" with Jonathan Niles-Weed (2021) is also found in the above repo.
 - An implementation of the 1-Nearest-Neighbor estimator for optimal transport maps, as seen in "Plugin Estimators for Smooth Transport Maps" (Manole et al., 2021)
